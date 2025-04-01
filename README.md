@@ -6,6 +6,9 @@ In this project, I built an interactive calculator using the **Portialabs SDK** 
 
 The application was designed to handle rate limits effectively, retrying requests with escalating delays when the rate limit is hit, ensuring smooth user experience even under heavy usage.
 
+![Portialabs](https://github.com/user-attachments/assets/8476ace3-0cbe-4e6e-99be-90df5f1f392e)
+
+
 ## Features
 - **Basic Calculations:** Users can ask for simple arithmetic like addition, subtraction, multiplication, and division.
 - **Advanced Calculations:** Supports powers and square roots.
